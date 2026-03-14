@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "categories": [
     { "id": "geo",          "label": "Géographie",            "emoji": "🌍", "color": "#27AE60" },
     { "id": "histoire",     "label": "Histoire",              "emoji": "📜", "color": "#795548" },
